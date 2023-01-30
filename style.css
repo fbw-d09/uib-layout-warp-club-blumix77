@@ -31,9 +31,9 @@ nav {
     display: flex;
     flex-direction: row;
     justify-content: flex-end;
-    position: relative;
-    bottom: 25px;
-    right: 40px;
+    /* position: relative; */
+   /*  bottom: 25px;
+    right: 40px; */
 }
 
 #nav-right a {
@@ -57,7 +57,6 @@ a:hover {
    text-shadow: 3px 3px darkorange;
    scroll-behavior: smooth;
    transition: 0.4s;
-   background-color: black;
 }
 
 
